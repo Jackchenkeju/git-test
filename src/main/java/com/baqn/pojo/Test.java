@@ -5,4 +5,5 @@ public class Test {
      private Integer age;
      private String address;
      private String wifi;
+     private String height;
 }
